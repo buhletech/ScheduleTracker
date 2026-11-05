@@ -2,7 +2,7 @@ ScheduleTracker
 
 A Todoist-inspired project manager. Create, edit, nest and delete projects with custom colours and List / Board / Calendar layouts.
 
-Live demo: https://your-frontend.onrender.com
+Live demo: https://schedule-tracker-frontend.onrender.com
 
 The backend runs on Render's free tier, so the first load after inactivity can take 30-60 seconds while it wakes up.
 
